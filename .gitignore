@@ -1,0 +1,6 @@
+build/
+Library/
+*.sln
+*.csproj
+.vscode/
+.DS_Store
